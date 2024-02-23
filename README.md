@@ -24,7 +24,8 @@ I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-rel
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Deo-Ekodi&show_icons=true&theme=radical)](https://github.com/Deo-Ekodi)
+[![Your GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Deo-Ekodi&bg_color=ffffff00&hide_border=true&line_height=20&text_color=777&hide_title=true)](https://github.com/Deo-Ekodi)
+
 
 <!-- Top Languages -->
 ## 🚀 Top Languages
