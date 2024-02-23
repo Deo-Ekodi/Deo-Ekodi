@@ -1,7 +1,7 @@
 <!-- Introduction -->
-# 👋 Hello, I'm [Deo Ekodi]!
+# 👋 Hello, I'm Deo Ekodi!
 
-I'm a [Student] based in [Nakuru, Kenya]. I have a passion for [anything computer-related] and a keen interest in [transforming the future of Civil Engineering and its practices]. 
+I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-related and a keen interest in transforming the future of Civil Engineering and its practices. 
 
 <!-- Social Media Badges -->
 ## 🌐 Connect with Me
@@ -24,7 +24,7 @@ I'm a [Student] based in [Nakuru, Kenya]. I have a passion for [anything compute
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekodi32_t&show_icons=true&theme=radical)](https://github.com/ekodi32_t)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Deo-Ekodi&show_icons=true&theme=radical)](https://github.com/ekodi32_t)
 
 <!-- Top Languages -->
 ## 🚀 Top Languages
