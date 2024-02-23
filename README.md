@@ -24,11 +24,11 @@ I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-rel
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Deo-Ekodi&show_icons=true&theme=radical)](https://github.com/ekodi32_t)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Deo-Ekodi&show_icons=true&theme=radical)](https://github.com/Deo-Ekodi)
 
 <!-- Top Languages -->
 ## 🚀 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekodi32_t&layout=compact&theme=radical)](https://github.com/ekodi32_t)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deo-Ekodi&layout=compact&theme=radical)](https://github.com/Deo-Ekodi)
 
 <!-- Projects -->
 ## 💼 Featured Projects
@@ -37,10 +37,10 @@ I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-rel
 
 <!-- GitHub Activity Graph -->
 ## 📈 GitHub Activity Graph
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ekodi32_t&theme=github)](https://github.com/ekodi32_t)
+[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Deo-Ekodi&theme=github)](https://github.com/Deo-Ekodi)
 
 <!-- Visitor Counter -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ekodi32_t)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Deo-Ekodi)
 
 <!-- Footer -->
 ## 🙏 Thanks for visiting my profile! I'm open to connect and collaborate on low-level computation projects!
