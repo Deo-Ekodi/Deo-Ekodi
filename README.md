@@ -36,12 +36,5 @@ I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-rel
 - [H Operating System](https://github.com/Deo-Ekodi/hOS.git) - Learning implementation of the Kernel by building one.
 - [National Roads Safety](https://github.com/Deo-Ekodi/National-Raads-Safety.git) - Management of roads-safety accross the country
 
-<!-- GitHub Activity Graph -->
-## 📈 GitHub Activity Graph
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Deo-Ekodi&theme=github)](https://github.com/Deo-Ekodi)
-
-<!-- Visitor Counter -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Deo-Ekodi)
-
 <!-- Footer -->
 ## 🙏 Thanks for visiting my profile! I'm open to connect and collaborate on low-level computation projects!
