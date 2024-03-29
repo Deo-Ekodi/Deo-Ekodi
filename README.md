@@ -37,4 +37,4 @@ I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-rel
 - [National Roads Safety](https://github.com/Deo-Ekodi/National-Raads-Safety.git) - Management of roads-safety accross the country
 
 <!-- Footer -->
-## 🙏 Thanks for visiting my profile! I'm open to connect and collaborate on low-level computation projects!
+## 😉 Thanks for visiting my profile! I'm open to connect and collaborate on low-level computation projects!
