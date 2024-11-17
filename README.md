@@ -5,8 +5,8 @@ I'm a Student based in Nakuru, Kenya. I have a passion for anything computer-rel
 
 <!-- Social Media Badges -->
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deogratius-ekodi-a118b7216/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/ekodi_deo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ekodi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deogratius-ekodi-a118b7216/)
+[![X](https://img.shields.io/badge/Twitter-Ekodi-blue?style=flat-square&logo=twitter)](https://x.com/ekodi_deo)
 
 <!-- Technologies & Tools -->
 ## 🔧 Technologies & Tools
