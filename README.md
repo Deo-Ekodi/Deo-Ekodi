@@ -73,12 +73,44 @@ I engineer systems. Proven track in **low-level computation**, **virtualization*
 
 ### 🏆 Featured Engineering
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[hOS](https://github.com/Deo-Ekodi/hOS)** | 🖥️ **Operating System Kernel.** A custom kernel implementation built from scratch to understand OS architecture, memory management, and process scheduling. | `C` `x86 Assembly` `QEMU` |
-| **[scrollreach](https://github.com/Deo-Ekodi/scrollreach)** | 📜 **High-Performance Sys.** `playwright` + `ffmpeg` optimized video generation library tailored for personalized outreach. | `Python` `TypeScript` `React` |
-| **[regloom](https://github.com/Deo-Ekodi/regloom)** | 🔧 **Regulatory Compliance.** Advanced data filtering/ sanitation utility for keeping tabs with compliance regs. | `Python` `Javascript` |
-| **[National Roads Safety](https://github.com/Deo-Ekodi/National-Raads-Safety)** | 🚦 **Civil Eng Tech.** A comprehensive data management system for tracking and analyzing road safety metrics across Kenya. | `C++` `Data` |
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Deo-Ekodi/hOS"><b>hOS</b></a><br>
+      <sub>Experimental Kernel</sub>
+    </td>
+    <td>
+      An x86 kernel implementation focusing on memory segmentation and interrupt handling. Built to bridge the gap between high-level logic and hardware.
+    </td>
+    <td>
+      <code>C</code> <code>x86 ASM</code> <code>QEMU</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Deo-Ekodi/scrollreach"><b>Scrollreach</b></a><br>
+      <sub>Automation Engine</sub>
+    </td>
+    <td>
+      High-performance outreach system. Leverages Playwright and FFMPEG to programmatically generate personalized video content at scale.
+    </td>
+    <td>
+      <code>Python</code> <code>FFMPEG</code> <code>React</code>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/Deo-Ekodi/regloom"><b>Regloom</b></a><br>
+      <sub>Data Sanitation</sub>
+    </td>
+    <td>
+      A compliance-first utility designed to sanitize and filter datasets according to strict regulatory frameworks.
+    </td>
+    <td>
+      <code>Python</code> <code>JS</code> <code>Regex</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,3 +118,5 @@ I engineer systems. Proven track in **low-level computation**, **virtualization*
   <p><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
   <p>Thanks for visiting! Let's build the future.</p>
 </div>
+
+![Snake animation](https://github.com/Deo-Ekodi/Deo-Ekodi/blob/output/github-contribution-grid-snake-dark.svg)
