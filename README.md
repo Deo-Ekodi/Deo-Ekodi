@@ -22,7 +22,7 @@
 ### ⚡ I'm this guy;
 I engineer systems. Proven track in **low-level computation**, **virtualization**, and **scalable cloud infrastructure**.
 
-* 🔭 I’m currently open to a role.
+* 🔭 Open to solve!
 
 ---
 
